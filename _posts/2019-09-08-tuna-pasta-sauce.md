@@ -7,6 +7,8 @@ categories: jekyll update recipe
 
 ## Tuna Pasta Sauce
 
+<img src="https://images.unsplash.com/photo-1544551763-77ef2d0cfc6c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80" width="300" alt="fishes"/>
+
 ### Ingredients
 * 5dl Creme Fraiche
 * 2 tins of tuna in water
