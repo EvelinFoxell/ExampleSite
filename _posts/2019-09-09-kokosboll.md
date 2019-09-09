@@ -7,7 +7,7 @@ categories: jekyll update recipe
 
 ## Kokosboll
 
-<img src="https://images.unsplash.com/photo-1544551763-77ef2d0cfc6c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80" width="300" alt="fishes"/>
+<img src="https://images.unsplash.com/photo-1554153274-19f36270647a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=984&q=80" width="300" alt="fishes"/>
 
 ### Ingredienser
 * Kokos
